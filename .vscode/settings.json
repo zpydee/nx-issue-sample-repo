@@ -1,0 +1,5 @@
+{
+    "angular.suggest.includeCompletionsWithSnippetText": false,
+    "GitCommitPlugin.MaxSubjectWords": 40,
+    "angular.enable-strict-mode-prompt": false
+}
